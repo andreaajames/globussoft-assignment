@@ -1,0 +1,6 @@
+{
+    "model_name": "Facenet",
+    "detector_backend": "opencv",
+    "threshold": 0.7,
+    "distance_metric": "cosine"
+}
